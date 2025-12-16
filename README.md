@@ -2,8 +2,8 @@
 # 🎹 Modern Harmonium
 
 A sleek and interactive digital harmonium that you can play using your keyboard or with hand gestures via your webcam. This project blends classic musical expression with modern computer vision technology.
+<img width="1124" height="728" alt="harmonium" src="https://github.com/user-attachments/assets/076c0224-6c50-4a81-ac77-a44d38c3e116" />
 
-<img width="1124" height="728" alt="modern harmonium screenshot" src="./assets/harmonium_screenshot.png" />
 ---
 
 ## ✨ Features
