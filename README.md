@@ -3,8 +3,7 @@
 
 A sleek and interactive digital harmonium that you can play using your keyboard or with hand gestures via your webcam. This project blends classic musical expression with modern computer vision technology.
 
-![Harmonium Screenshot](https://i.imgur.com/your-screenshot.png) <!-- Replace with your actual screenshot -->
-
+<img width="1124" height="728" alt="modern harmonium screenshot" src="./assets/harmonium_screenshot.png" />
 ---
 
 ## ✨ Features
