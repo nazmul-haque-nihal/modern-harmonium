@@ -3,7 +3,7 @@
 
 A sleek and interactive digital harmonium that you can play using your keyboard or with hand gestures via your webcam. This project blends classic musical expression with modern computer vision technology.
 
-<img width="1124" height="728" alt="harmonium" src="https://github.com/user-attachments/assets/8dcdd897-64b9-4b55-88f7-7eccd51d7bdc" />
+![Harmonium Screenshot](https://i.imgur.com/your-screenshot.png) <!-- Replace with your actual screenshot -->
 
 ---
 
@@ -43,7 +43,7 @@ A background thread is dedicated to gesture recognition, ensuring the UI remains
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/nazmul-haque-nihal/modern-harmonium.git
+    git clone https://github.com/your-username/modern-harmonium.git
     cd modern-harmonium
     ```
 
